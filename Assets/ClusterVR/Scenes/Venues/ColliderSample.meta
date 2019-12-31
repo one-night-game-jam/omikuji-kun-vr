@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Alefgard/sdkproject/Assets/ClusterVR/Scenes/Venues/ColliderSample.meta
+guid: 4f0cf273e87c3412ca7478dae52de689
+=======
+guid: 85dd6c6ce985bae4790752f1567bd9dd
+>>>>>>> 3be84670fb... Move Oculus/LipSync & ClusterLib/BakedLive from unityproject -> sdkproject, and expose as .dll.:Alefgard/sdkproject/Assets/Plugins.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

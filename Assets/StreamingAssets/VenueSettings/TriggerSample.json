@@ -1,0 +1,70 @@
+﻿{
+  "triggers": [
+	 {
+      "id": "Jump Box",
+      "category": "Jump Box",
+      "instant": true,
+      "showConfirmDialog": true,
+      "displayName" : "Jump Box",
+      "color": [ 0.0, 0.0, 1.0 ]
+    },
+    {
+      "id": "Off Switch",
+      "category": "Switch",
+      "instant": false,
+      "showConfirmDialog": true,
+      "displayName" : "Off Switch",
+      "color": [ 1.0, 1.0, 1.0 ]
+    },
+   	{
+      "id": "On Switch",
+      "category": "Switch",
+      "instant": false,
+      "showConfirmDialog": true,
+      "displayName" : "On Switch",
+      "color": [ 1.0, 0.0, 0.0 ]
+    },
+    {
+      "id": "All Color",
+      "category": "ChangeColor",
+      "showConfirmDialog": true,
+      "displayName" : "All Color",
+      "color": [ 1.0, 1.0, 1.0 ]
+    },
+    {
+      "id": "Red Only",
+      "category": "ChangeColor",
+      "showConfirmDialog": true,
+      "displayName" : "Red Only",
+      "color": [ 1.0, 0.0, 0.0 ]
+    },
+    {
+      "id": "Green Only",
+      "category": "ChangeColor",
+      "showConfirmDialog": true,
+      "displayName" : "Green Only",
+      "color": [ 0.0, 1.0, 0.0 ]
+    },
+    {
+      "id": "Blue Only",
+      "category": "ChangeColor",
+      "showConfirmDialog": true,
+      "displayName" : "Blue Only",
+      "color": [ 0.0, 0.0, 1.0 ]
+    },
+    {
+      "id": "Timeline Idle",
+      "category": "Timeline",
+      "showConfirmDialog": true,
+      "displayName" : "Timeline Idle",
+      "color": [ 0.0, 0.0, 0.0 ]
+    },
+    {
+      "id": "Timeline Animation",
+      "category": "Timeline",
+      "showConfirmDialog": true,
+      "displayName" : "Timeline Animation",
+      "color": [ 1.0, 1.0, 1.0 ]
+    }
+  ]
+}
