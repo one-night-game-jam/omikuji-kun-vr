@@ -1,0 +1,1 @@
+# omikuji-kun-vr
